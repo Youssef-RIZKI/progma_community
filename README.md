@@ -1,2 +1,4 @@
 ## progma_community
-this session is for git and github 
+
+this session is for git and github
+this a second modification
