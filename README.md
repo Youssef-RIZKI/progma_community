@@ -1,4 +1,3 @@
 ## progma_community
 
-this session is for git and github
-this a second modification
+this is a complete ecommerce wesite
